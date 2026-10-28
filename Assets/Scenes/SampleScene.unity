@@ -615,7 +615,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80e0698cd08ffef439629776107fcf1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
-  speed: 0.1
+  xSpeed: 0.1
+  ySpeed: 0
   bgRenderer: {fileID: 734075190}
 --- !u!23 &734075190
 MeshRenderer:

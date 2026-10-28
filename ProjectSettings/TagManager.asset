@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Projectile
+  - PlayerBullet
+  - GalagaPlayer
+  - Enemy
+  - HealthPickup
+  - TriplerPickup
   layers:
   - Default
   - TransparentFX
