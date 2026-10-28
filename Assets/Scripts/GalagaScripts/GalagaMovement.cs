@@ -88,7 +88,7 @@ public class GalagaMovement : MonoBehaviour
 
         }
 
-        //Heals the player if they collect a health pickup
+        //Heals the player if they collect a health pickup while making sure thet can't overheal
         if (collision.gameObject.CompareTag("HealthPickup"))
         {
             lifeCount += 1;
